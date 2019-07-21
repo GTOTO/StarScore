@@ -1,18 +1,18 @@
 //
-//  StarScoreTests.m
-//  StarScoreTests
+//  StarScoreExampleTests.m
+//  StarScoreExampleTests
 //
-//  Created by G on 2019/6/24.
+//  Created by G on 2019/7/21.
 //  Copyright © 2019 G. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface StarScoreTests : XCTestCase
+@interface StarScoreExampleTests : XCTestCase
 
 @end
 
-@implementation StarScoreTests
+@implementation StarScoreExampleTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
